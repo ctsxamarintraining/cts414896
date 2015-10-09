@@ -1,0 +1,6 @@
+C:\Users\467627\Desktop\467627\copyFld\copyFldRecursive\bin\Debug\copyFldRecursive.exe.config
+C:\Users\467627\Desktop\467627\copyFld\copyFldRecursive\bin\Debug\copyFldRecursive.exe
+C:\Users\467627\Desktop\467627\copyFld\copyFldRecursive\bin\Debug\copyFldRecursive.pdb
+C:\Users\467627\Desktop\467627\copyFld\copyFldRecursive\obj\Debug\copyFldRecursive.csprojResolveAssemblyReference.cache
+C:\Users\467627\Desktop\467627\copyFld\copyFldRecursive\obj\Debug\copyFldRecursive.exe
+C:\Users\467627\Desktop\467627\copyFld\copyFldRecursive\obj\Debug\copyFldRecursive.pdb

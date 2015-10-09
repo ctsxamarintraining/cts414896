@@ -1,0 +1,5 @@
+/Users/minimac-kol1/Desktop/Rajlakshmi/FileCopy/FileCopy/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/minimac-kol1/Desktop/Rajlakshmi/FileCopy/FileCopy/bin/Debug/FileCopy.exe.mdb
+/Users/minimac-kol1/Desktop/Rajlakshmi/FileCopy/FileCopy/bin/Debug/FileCopy.exe
+/Users/minimac-kol1/Desktop/Rajlakshmi/FileCopy/FileCopy/obj/x86/Debug/FileCopy.exe
+/Users/minimac-kol1/Desktop/Rajlakshmi/FileCopy/FileCopy/obj/x86/Debug/FileCopy.exe.mdb

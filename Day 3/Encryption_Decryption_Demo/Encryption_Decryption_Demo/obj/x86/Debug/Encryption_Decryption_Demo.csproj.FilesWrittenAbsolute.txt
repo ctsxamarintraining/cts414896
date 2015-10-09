@@ -1,0 +1,5 @@
+/Users/Macmini10/Projects/Encryption_Decryption_Demo/Encryption_Decryption_Demo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Macmini10/Projects/Encryption_Decryption_Demo/Encryption_Decryption_Demo/bin/Debug/Encryption_Decryption_Demo.exe.mdb
+/Users/Macmini10/Projects/Encryption_Decryption_Demo/Encryption_Decryption_Demo/bin/Debug/Encryption_Decryption_Demo.exe
+/Users/Macmini10/Projects/Encryption_Decryption_Demo/Encryption_Decryption_Demo/obj/x86/Debug/Encryption_Decryption_Demo.exe
+/Users/Macmini10/Projects/Encryption_Decryption_Demo/Encryption_Decryption_Demo/obj/x86/Debug/Encryption_Decryption_Demo.exe.mdb
