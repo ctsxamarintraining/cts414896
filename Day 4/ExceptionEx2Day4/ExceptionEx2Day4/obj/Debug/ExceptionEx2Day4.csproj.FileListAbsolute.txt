@@ -1,0 +1,6 @@
+C:\Users\451777\Desktop\C# asst\ExceptionEx2Day4\ExceptionEx2Day4\bin\Debug\ExceptionEx2Day4.exe.config
+C:\Users\451777\Desktop\C# asst\ExceptionEx2Day4\ExceptionEx2Day4\bin\Debug\ExceptionEx2Day4.exe
+C:\Users\451777\Desktop\C# asst\ExceptionEx2Day4\ExceptionEx2Day4\bin\Debug\ExceptionEx2Day4.pdb
+C:\Users\451777\Desktop\C# asst\ExceptionEx2Day4\ExceptionEx2Day4\obj\Debug\ExceptionEx2Day4.csprojResolveAssemblyReference.cache
+C:\Users\451777\Desktop\C# asst\ExceptionEx2Day4\ExceptionEx2Day4\obj\Debug\ExceptionEx2Day4.exe
+C:\Users\451777\Desktop\C# asst\ExceptionEx2Day4\ExceptionEx2Day4\obj\Debug\ExceptionEx2Day4.pdb

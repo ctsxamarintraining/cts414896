@@ -1,0 +1,6 @@
+c:\users\414883\documents\visual studio 2013\Projects\Squareroot of a number\Squareroot of a number\bin\Debug\Squareroot of a number.exe.config
+c:\users\414883\documents\visual studio 2013\Projects\Squareroot of a number\Squareroot of a number\bin\Debug\Squareroot of a number.exe
+c:\users\414883\documents\visual studio 2013\Projects\Squareroot of a number\Squareroot of a number\bin\Debug\Squareroot of a number.pdb
+c:\users\414883\documents\visual studio 2013\Projects\Squareroot of a number\Squareroot of a number\obj\Debug\Squareroot of a number.csprojResolveAssemblyReference.cache
+c:\users\414883\documents\visual studio 2013\Projects\Squareroot of a number\Squareroot of a number\obj\Debug\Squareroot of a number.exe
+c:\users\414883\documents\visual studio 2013\Projects\Squareroot of a number\Squareroot of a number\obj\Debug\Squareroot of a number.pdb

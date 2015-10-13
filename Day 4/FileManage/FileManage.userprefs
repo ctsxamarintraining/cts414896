@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="FileManage/FileManage.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../FileManage.cs">
+    <Files>
+      <File FileName="../../C# Xamarin day3/FileCopy/FileCopy/Program.cs" Line="15" Column="5" />
+      <File FileName="../FileManage.cs" Line="11" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macmini6/Desktop/Piyali_xamarin/FileManage.cs" line="16" column="1" />
+      <Breakpoint file="/Users/macmini6/Desktop/Piyali_xamarin/FileManage.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
