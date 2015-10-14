@@ -1,0 +1,5 @@
+/Users/CognizantMobility/Projects/day5second/day5second/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/CognizantMobility/Projects/day5second/day5second/bin/Debug/day5second.exe.mdb
+/Users/CognizantMobility/Projects/day5second/day5second/bin/Debug/day5second.exe
+/Users/CognizantMobility/Projects/day5second/day5second/obj/x86/Debug/day5second.exe
+/Users/CognizantMobility/Projects/day5second/day5second/obj/x86/Debug/day5second.exe.mdb

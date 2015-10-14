@@ -1,0 +1,5 @@
+/Users/macmini6/Desktop/Piyali_xamarin/Partial/Partial/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/macmini6/Desktop/Piyali_xamarin/Partial/Partial/bin/Debug/Partial.exe.mdb
+/Users/macmini6/Desktop/Piyali_xamarin/Partial/Partial/bin/Debug/Partial.exe
+/Users/macmini6/Desktop/Piyali_xamarin/Partial/Partial/obj/x86/Debug/Partial.exe
+/Users/macmini6/Desktop/Piyali_xamarin/Partial/Partial/obj/x86/Debug/Partial.exe.mdb
